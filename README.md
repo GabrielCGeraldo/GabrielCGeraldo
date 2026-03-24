@@ -15,7 +15,7 @@ Um pouco mais sobre mim:
  - React
  - MySQL
  - Python
-🧰 Possuo ampla vivência em suporte e infraestrutura, incluindo:
+ - 🧰 Possuo ampla vivência em suporte e infraestrutura, incluindo:
 Manutenção e diagnóstico de hardware (notebooks e desktops)
 Suporte técnico ao usuário e atendimento interno
 Operação e suporte a sistemas ERP
@@ -31,6 +31,7 @@ Conhecimentos em firewall e segurança de rede
 Gestão e monitoramento de backups
 Contato com fornecedores e negociação
 Controle e inventário de ativos de TI
-🚀 Atualmente busco novas oportunidades nas áreas de Suporte Técnico, Infraestrutura ou Desenvolvimento de Software, onde eu possa aplicar todo o meu conhecimento prático em TI, evoluir profissionalmente e ampliar minha atuação no desenvolvimento de soluções tecnológicas.
+
+- 🚀 Atualmente busco novas oportunidades nas áreas de Suporte Técnico, Infraestrutura ou Desenvolvimento de Software, onde eu possa aplicar todo o meu conhecimento prático em TI, evoluir profissionalmente e ampliar minha atuação no desenvolvimento de soluções tecnológicas.
 📫 Entre em contato comigo se quiser trocar ideias, conversar sobre tecnologia ou colaborar em projetos:
 LinkedIn: [GabrielCruz](https://www.linkedin.com/in/gabriel-da-cruz-a7082b294/)
