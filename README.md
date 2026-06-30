@@ -2,7 +2,7 @@ Olá 👋
 
 Meu nome é Gabriel da Cruz, sou profissional de Tecnologia da Informação com mais de 6 anos de experiência em suporte técnico, infraestrutura de TI, administração de ambientes corporativos e atendimento a usuários. Atualmente, estou em transição para a área de Desenvolvimento de Software, ampliando minha atuação dentro do universo da tecnologia.
 
-Atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas, onde venho fortalecendo minha base em programação e adquirindo experiência prática com ferramentas e tecnologias modernas utilizadas no mercado.
+Atualmente curso o 5º semestre de Análise e Desenvolvimento de Sistemas, onde venho fortalecendo minha base em programação e adquirindo experiência prática com ferramentas e tecnologias modernas utilizadas no mercado.
 
 Um pouco mais sobre mim:
 
